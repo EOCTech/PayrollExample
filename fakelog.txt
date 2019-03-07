@@ -1,0 +1,15 @@
+2019-02-23 21:38:55 - 1001 : Hulk Hogan CLOCK IN to GoodGuys
+2019-02-23 21:38:57 - 1002 : Roddy Piper CLOCK IN to BadGuys
+2019-02-23 21:38:59 - 1003 : Andre the Giant CLOCK IN to GoodGuys
+2019-02-23 21:39:01 - 1004 : Big John Studd CLOCK IN to BadGuys
+2019-02-23 21:39:03 - 1005 : Authorization FAILED
+2019-02-23 21:39:05 - 1006 : Hillbilly Jim CLOCK IN to GoodGuys
+2019-02-23 21:39:06 - 1007 : Jimmy Superfly CLOCK IN to GoodGuys
+2019-02-23 21:39:08 - 1008 : Nikolai Volkov CLOCK IN to BadGuys
+2019-02-23 21:39:10 - 1009 : Authorization FAILED
+2019-02-23 21:39:14 - 1002 : Roddy Piper CLOCK OUT from BadGuys
+2019-02-23 21:39:17 - 1006 : Hillbilly Jim CLOCK OUT from GoodGuys
+2019-02-23 21:39:39 - 1001 : Hulk Hogan CLOCK OUT from GoodGuys
+2019-02-23 21:39:54 - 1003 : Andre the Giant CLOCK OUT from GoodGuys
+2019-02-23 21:39:57 - 1006 : Hillbilly Jim CLOCK IN to GoodGuys
+2019-02-23 21:48:17 - 1006 : Hillbilly Jim CLOCK OUT from GoodGuys
